@@ -1,1 +1,1 @@
-This repository contains all the project I will under ALX programme
+This repository contains all the project for the third week of ALX programme
