@@ -1,1 +1,1 @@
-This repository contains all the project I will under ALX programme
+Displays the absolute path of the current directory
